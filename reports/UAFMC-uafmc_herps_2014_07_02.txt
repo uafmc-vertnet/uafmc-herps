@@ -1,0 +1,74 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 56
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-02 ; Times: 1
+	Date: 2014-06-04 ; Times: 1
+	Date: 2014-06-05 ; Times: 1
+	Date: 2014-06-06 ; Times: 2
+	Date: 2014-06-08 ; Times: 2
+	Date: 2014-06-09 ; Times: 4
+	Date: 2014-06-13 ; Times: 2
+	Date: 2014-06-15 ; Times: 1
+	Date: 2014-06-16 ; Times: 5
+	Date: 2014-06-19 ; Times: 1
+	Date: 2014-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "painted turtle" ; Times: 1
+	Query: "Reptila institutioncode:UAFMC" ; Times: 1
+	Query: "country:"Panama" specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "country:"Panama" genus:Tantilla" ; Times: 4
+	Query: "gila monster" ; Times: 2
+	Query: "eurycea lucifuga type:specimen year >= 1960" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Tantilla" ; Times: 3
+	Query: "crotalus viridis oklahoma" ; Times: 1
+	Query: "country:"Panama" specificepithet:ruficeps genus:Tantilla" ; Times: 2
+	Query: "stateprovince:"Veraguas" country:"Panama" class:Reptilia" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 278 download events in this period)
+Total number of records downloaded: 24 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 24
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis sirtalis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 45
+Total number of records retrieved from searches: 268
+Number of download events that retrieved data from the resource: 5
+Total number of records downloaded: 44
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 45
+Total number of records retrieved from searches: 268
+Number of download events that retrieved data from the resource: 5
+Total number of records downloaded: 44
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
