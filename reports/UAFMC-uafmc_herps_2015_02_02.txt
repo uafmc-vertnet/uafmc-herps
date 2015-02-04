@@ -1,0 +1,89 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 40
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-04 ; Times: 1
+	Date: 2015-01-09 ; Times: 1
+	Date: 2015-01-13 ; Times: 2
+	Date: 2015-01-14 ; Times: 1
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-23 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eastern diamondback rattlesnake" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 1
+	Query: "stateprovince:"Veraguas" country:"Panama" specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "bufo woodhousei" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 1
+	Query: "galapagos tortoise" ; Times: 1
+	Query: "alligator mississippiensis arkansas" ; Times: 1
+	Query: "Pantherophis obsoleta" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 445 download events in this period)
+Total number of records downloaded: 213 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 213
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: India ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-06 ; Times: 1
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-13 ; Times: 4
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-22 ; Times: 1
+	Date: 2015-01-24 ; Times: 1
+	Date: 2015-01-26 ; Times: 1
+	Date: 2015-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Salamandra" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "woodhousii" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 91
+Total number of records retrieved from searches: 518
+Number of download events that retrieved data from the resource: 12
+Total number of records downloaded: 213
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 100
+Total number of records retrieved from searches: 558
+Number of download events that retrieved data from the resource: 70
+Total number of records downloaded: 1765
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
