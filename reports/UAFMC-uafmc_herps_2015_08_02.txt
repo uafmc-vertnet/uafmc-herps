@@ -1,0 +1,145 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 570
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 1
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-10 ; Times: 3
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-18 ; Times: 5
+	Date: 2015-07-21 ; Times: 7
+	Date: 2015-07-27 ; Times: 2
+	Date: 2015-07-28 ; Times: 3
+	Date: 2015-07-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "nasicus oklahoma" ; Times: 2
+	Query: "nasicus stateprovince:"oklahoma"" ; Times: 1
+	Query: "Scincinae" ; Times: 3
+	Query: "Lygosominae" ; Times: 1
+	Query: "Necturus maculosus type:specimen country:"United States" year >= 1900 year <= 2015" ; Times: 2
+	Query: "Trionyx spinifera" ; Times: 1
+	Query: "Trionyx ferox" ; Times: 1
+	Query: "Sistrurus catenatus stateprovince:"Kansas" country:"United States"" ; Times: 1
+	Query: "georgia southern university (salamander)" ; Times: 3
+	Query: "Spea intermontanus" ; Times: 1
+	Query: "Mudpuppy year >= 1900 year <= 2015" ; Times: 1
+	Query: "Sphenodon punctatus" ; Times: 1
+	Query: "stateprovince:"Veraguas" country:"Panama" specificepithet:aeneus genus:Oxybelis" ; Times: 1
+	Query: "institutioncode:uafmc class:Amphibia" ; Times: 2
+	Query: "necturus arkansas" ; Times: 3
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "sistrurus stateprovince:"oklahoma"" ; Times: 1
+	Query: "long-nosed snake" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1084 download events in this period)
+Total number of records downloaded: 7343 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3207
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 48
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-08 ; Times: 3
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-18 ; Times: 2
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 20
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-28 ; Times: 3
+	Date: 2015-07-29 ; Times: 4
+	Date: 2015-07-30 ; Times: 3
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon serratus" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "Terrapene (carolina OR bauri OR major OR triunguis)" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "Kinosternon subrubrum" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "Graptemys" ; Times: 1
+	Query: "Graptemys kohnii" ; Times: 1
+	Query: "country:"Mexico" class:Amphibia" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "Pseudemys concinna year >= 1950 year <= 2013" ; Times: 1
+	Query: "Trionyx ferox" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 1
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "country:"Mexico" class:Reptilia" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "Necturus maculosus year >= 1900 year <= 2015" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Sternotherus carinatus" ; Times: 1
+	Query: "adamanteus" ; Times: 1
+	Query: "arizona elegans type:specimen" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Necturus maculosus type:specimen year >= 1900 year <= 2015" ; Times: 1
+	Query: "crotalus viridis viridis" ; Times: 1
+	Query: "Graptemys (pseudogeographica OR sabinensis)" ; Times: 1
+	Query: "anaxyrus type:specimen" ; Times: 1
+	Query: "Terrapene (ornata OR luteola)" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 1
+	Query: "(suwanniensis OR apalachicolae OR teminckii OR Macroclemys OR Macrochelys)" ; Times: 1
+	Query: "Trionyx spinifera" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "Trachemys (scripta OR elegans OR troosti)" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "hemidactylium" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "blandingii (Emydoidea OR Emys)" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "Apalone ferox" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 176
+Total number of records retrieved from searches: 1265
+Number of download events that retrieved data from the resource: 163
+Total number of records downloaded: 10810
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 185
+Total number of records retrieved from searches: 1305
+Number of download events that retrieved data from the resource: 221
+Total number of records downloaded: 12362
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
