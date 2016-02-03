@@ -1,0 +1,128 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 63
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: United Kingdom ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Russia ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-10 ; Times: 3
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-12 ; Times: 3
+	Date: 2015-09-13 ; Times: 2
+	Date: 2015-09-14 ; Times: 3
+	Date: 2015-09-15 ; Times: 2
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-17 ; Times: 2
+	Date: 2015-09-18 ; Times: 3
+	Date: 2015-09-29 ; Times: 2
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-24 ; Times: 3
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-22 ; Times: 2
+	Date: 2015-09-21 ; Times: 2
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Inyo&#34; specificepithet:boreas genus:anaxyrus class:amphibia" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "tuatara" ; Times: 2
+	Query: "gila monster" ; Times: 1
+	Query: "bullsnake" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "turtles" ; Times: 1
+	Query: "specificepithet:dulcis stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "tailed frog" ; Times: 2
+	Query: "plethodon glutinosis" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "apalone (skel OR skeleton)" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;meade&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Night snake" ; Times: 1
+	Query: "specificepithet:guttatus family:colubridae" ; Times: 1
+	Query: "Elaphe [Pantherophis] obsoleta" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:nebulatus genus:Sibon country:&#34;Panama&#34;" ; Times: 1
+	Query: "Pantherophis stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea country:&#34;Panama&#34;" ; Times: 2
+	Query: "monster" ; Times: 18
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1045 download events in this period)
+Total number of records downloaded: 735
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Belgium ; Times: 1
+	Country: France ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-22 ; Times: 6
+	Date: 2015-09-25 ; Times: 5
+	Date: 2015-09-05 ; Times: 3
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-03 ; Times: 4
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-18 ; Times: 4
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-08 ; Times: 3
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 3
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; class:Reptilia year &lt;= 2015" ; Times: 1
+	Query: "Lampropeltis calligaster" ; Times: 1
+	Query: "Spea" ; Times: 2
+	Query: "Necturus" ; Times: 1
+	Query: "Rana pipiens" ; Times: 1
+	Query: "genus:Hemidactylus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Spea type:specimen" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 2
+	Query: "hyla chrysoscelis" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "Scaphiopus" ; Times: 3
+	Query: "Agkistrodon mexico" ; Times: 1
+	Query: "Pantherophis guttatus" ; Times: 1
+	Query: "Elaphe obsoleta" ; Times: 2
+	Query: "spea bombifrons" ; Times: 1
+	Query: "ascaphus" ; Times: 2
+	Query: "phrynosoma" ; Times: 1
+	Query: "Lithobates clamitans" ; Times: 1
+	Query: "lepidochelys olivacea" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "caiman" ; Times: 2
+	Query: "heterodon simus" ; Times: 1
+
+
+End of report.
