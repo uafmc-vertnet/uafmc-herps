@@ -1,0 +1,122 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 160
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 4
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 6
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-24 ; Times: 3
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "painted turtle" ; Times: 1
+	Query: "type:specimen specificepithet:pipiens class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "monster" ; Times: 6
+	Query: "specificepithet:nebulatus genus:Sibon" ; Times: 1
+	Query: "genus:Rhadinaea country:&#34;Panama&#34;" ; Times: 1
+	Query: "lincoln county washington amphibia" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Rattlesnakes" ; Times: 1
+	Query: "genus:Crotalus institutioncode:UAFMC" ; Times: 1
+	Query: "genus:Storeria stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "crawfish frog" ; Times: 3
+	Query: "Common sagebrush lizard" ; Times: 1
+	Query: "ommatotriton" ; Times: 1
+	Query: "blue racer" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 1
+	Query: "specificepithet:nebulatus genus:Sibon country:&#34;Panama&#34;" ; Times: 1
+	Query: "african clawed frog" ; Times: 2
+	Query: "lesser siren" ; Times: 1
+	Query: "heterodon marion" ; Times: 1
+	Query: "Acanthodactylus schreiberi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 823 download events in this period)
+Total number of records downloaded: 437
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 3
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-31 ; Times: 2
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-16 ; Times: 3
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "Ramphotyphlops braminus" ; Times: 1
+	Query: "Cophosaurus texanus" ; Times: 1
+	Query: "apalone ferox" ; Times: 2
+	Query: "Trachemys scripta (skel OR skeleton)" ; Times: 1
+	Query: "type:specimen class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "cane toad" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "plestiodon egregius" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "thamnophis radix" ; Times: 1
+	Query: "aspidoscelis" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "type:specimen specificepithet:pipiens class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 4
+	Query: "aeneus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+
+
+End of report.
