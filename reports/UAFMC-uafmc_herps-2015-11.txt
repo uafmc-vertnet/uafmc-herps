@@ -1,0 +1,86 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 87
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 3
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-09 ; Times: 5
+	Date: 2015-11-24 ; Times: 2
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-21 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus graciosus" ; Times: 1
+	Query: "Trionyx spinifera" ; Times: 1
+	Query: "Tantilla Arkansas" ; Times: 1
+	Query: "marbled salamanders" ; Times: 2
+	Query: "Mudpuppy" ; Times: 1
+	Query: "Sphenodon punctatus" ; Times: 1
+	Query: "eastern fence lizard" ; Times: 2
+	Query: "panama snakes" ; Times: 3
+	Query: "sibon nebulatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 751 download events in this period)
+Total number of records downloaded: 3802
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: United Kingdom ; Times: 1
+	Country: Panama ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-20 ; Times: 3
+	Date: 2015-11-14 ; Times: 4
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-02 ; Times: 1
+	Date: 2015-11-06 ; Times: 2
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "institutioncode:UAFMC" ; Times: 1
+	Query: "Aspidoscelis" ; Times: 1
+	Query: "spring salamander" ; Times: 1
+	Query: "anaxyrus punctatus" ; Times: 1
+	Query: "genus:Crotalus" ; Times: 1
+	Query: "cane toad" ; Times: 2
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Oklahoma&#34; month &gt;= 10 month &lt;= 12" ; Times: 1
+	Query: "panama viperidae" ; Times: 1
+	Query: "Notophthalmus" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Oklahoma&#34; month &gt;= 1 month &lt;= 1" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Testudines" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Rana clamitans" ; Times: 1
+	Query: "panama colubridae" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+
+
+End of report.
