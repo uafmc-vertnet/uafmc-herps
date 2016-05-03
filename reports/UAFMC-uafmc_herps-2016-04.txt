@@ -1,0 +1,86 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 71
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Sweden ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-28 ; Times: 4
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-15 ; Times: 2
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 4
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "hellbender" ; Times: 3
+	Query: "Natrix tessellata 1" ; Times: 2
+	Query: "Elaphe climacophora" ; Times: 1
+	Query: "eurycea spelaea" ; Times: 4
+	Query: "Hairy Frog" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 4
+	Query: "specificepithet:multiplicata genus:eurycea year &gt;= 2000 year &lt;= 2016" ; Times: 1
+	Query: "pygmy rattlesnake" ; Times: 1
+	Query: "slender glass lizard" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1312 download events in this period)
+Total number of records downloaded: 1879
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 1
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-23 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Lithobates catesbeiana type:specimen" ; Times: 1
+
+
+End of report.
