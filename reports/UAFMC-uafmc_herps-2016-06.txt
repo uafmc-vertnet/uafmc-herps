@@ -1,0 +1,85 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 52
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-16 ; Times: 5
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-03 ; Times: 3
+	Date: 2016-06-11 ; Times: 5
+	Date: 2016-06-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Squamata class:Reptilia county:&#34;Tuscaloosa&#34;" ; Times: 1
+	Query: "Hellbender" ; Times: 1
+	Query: "valeriae west virginia" ; Times: 1
+	Query: "specificepithet:triangulum genus:lampropeltis stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "hellbender" ; Times: 4
+	Query: "Chrysemys picta" ; Times: 4
+	Query: "Milksnake" ; Times: 1
+	Query: "class:Amphibia county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Rhinocheilus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1052 download events in this period)
+Total number of records downloaded: 315
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 4
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-16 ; Times: 3
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-06 ; Times: 6
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-03 ; Times: 3
+	Date: 2016-06-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "bufo bufo" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1966 year &lt;= 1975" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1956 year &lt;= 1965" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Spea bombifrons stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "aspidoscelis" ; Times: 2
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1946 year &lt;= 1955" ; Times: 1
+	Query: "genus:lepidochelys" ; Times: 1
+	Query: "atelopus" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1951 year &lt;= 1975" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Rhadinaea" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+
+
+End of report.
