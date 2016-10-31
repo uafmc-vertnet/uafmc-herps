@@ -1,0 +1,56 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 3
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-08 ; Times: 1
+	Date: 2016-09-02 ; Times: 1
+	Date: 2016-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sphenodon" ; Times: 1
+	Query: "Graptemys geographica 1" ; Times: 1
+	Query: "striped newt" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 811 download events in this period)
+Total number of records downloaded: 51
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-09 ; Times: 3
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "yellow mud turtle" ; Times: 1
+	Query: "rana pipiens" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 1
+	Query: "anaxyrus punctatus" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "thailand" ; Times: 2
+
+
+End of report.
