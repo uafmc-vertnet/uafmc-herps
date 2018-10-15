@@ -1,0 +1,73 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 130
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 2
+	Date: 2017-12-16 ; Times: 4
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-13 ; Times: 4
+	Date: 2017-12-08 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambystoma annulatum year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Ambystoma annulatum benton arkansas" ; Times: 1
+	Query: "Notophthalmus perstriatus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Arkansas Eurycea spelaea" ; Times: 1
+	Query: "Ambystoma annulatum washington arkansas" ; Times: 1
+	Query: "eurycea spelaea Arkansas" ; Times: 2
+	Query: "Notophthalmus perstriatus stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Caudata county:&#34;Putnam&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "Eurycea Madison Arkansas" ; Times: 1
+	Query: "Plethodon angusticlavius year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "4 toed salamander" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis stateprovince:&#34;Arkansas&#34; hastissue:1" ; Times: 1
+	Query: "Plestiodon egregius" ; Times: 2
+	Query: "Ambystoma annulatum Arkansas" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 674 download events in this period)
+Total number of records downloaded: 129
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-13 ; Times: 5
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-18 ; Times: 2
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "Sauromalus ater vntype:specimen hastissue:1" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Aspidoscelis" ; Times: 2
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "eumeces laticeps" ; Times: 1
+	Query: "vntype:specimen specificepithet:cognatus genus:Anaxyrus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:brown year &gt;= 1934 year &lt;= 1953" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+
+
+End of report.
