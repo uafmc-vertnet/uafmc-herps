@@ -1,0 +1,105 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 225
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 19
+	Country: Canada ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 4
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 3
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-26 ; Times: 8
+	Date: 2018-02-18 ; Times: 2
+	Date: 2018-02-19 ; Times: 2
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen hastissue:1 western chorus" ; Times: 1
+	Query: "northern pike hastissue:1" ; Times: 2
+	Query: "crowned snakes" ; Times: 2
+	Query: "hemidactylus turcicus arkansas" ; Times: 2
+	Query: "Sibon nebulatus" ; Times: 3
+	Query: "ambystoma annulatum arkansas" ; Times: 1
+	Query: "specificepithet:holbrookii county:&#34;Franklin&#34;" ; Times: 1
+	Query: "genus:Siren stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "axolotl" ; Times: 1
+	Query: "western chorus vntype:specimen hastissue:1" ; Times: 1
+	Query: "lithobates catesbeianus Rana catesbeiana hastissue:1" ; Times: 1
+	Query: "African clawed frog" ; Times: 1
+	Query: "sibon nebulatus" ; Times: 1
+	Query: "specificepithet:grahamii genus:regina year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "Tailed frog" ; Times: 1
+	Query: "alligator snapping turtle" ; Times: 1
+	Query: "elaphe guttatus" ; Times: 1
+	Query: "genus:regina institutioncode:UAFMC" ; Times: 3
+	Query: "genus:Scaphiopus county:&#34;Franklin&#34;" ; Times: 1
+	Query: "cornsnake" ; Times: 1
+	Query: "&#34;Rana catesbeiana&#34; &#34;Lithobates catesbeianus&#34; hastissue:1" ; Times: 1
+	Query: "Brahminy blindsnake" ; Times: 2
+	Query: "specificepithet:cinerea county:&#34;Washington&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1892 download events in this period)
+Total number of records downloaded: 283
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-03 ; Times: 4
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-01 ; Times: 3
+	Date: 2018-02-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "specificepithet:carolina genus:terrapene hassex:1" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "haldea striatula" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Anaxyrus cognatus" ; Times: 1
+	Query: "ambystoma annulatum arkansas" ; Times: 2
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 1
+
+
+End of report.
