@@ -1,0 +1,100 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 179
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 5
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-06 ; Times: 1
+	Date: 2018-01-21 ; Times: 2
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-23 ; Times: 4
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-10 ; Times: 10
+	Date: 2018-01-25 ; Times: 4
+	Date: 2018-01-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "PLESTIODON FASCIATUS cave" ; Times: 1
+	Query: "Rhadinaea decorata" ; Times: 2
+	Query: "genus:Ophisaurus family:Anguidae class:Reptilia continent:North America hastissue:1" ; Times: 1
+	Query: "crowned snakes" ; Times: 1
+	Query: "specificepithet:guttatus genus:pantherophis stateprovince:&#34;arkansas&#34; hastissue:1" ; Times: 1
+	Query: "Notophthalmus viridescens and newton" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 3
+	Query: "Camden county Ambystoma" ; Times: 1
+	Query: "blandings" ; Times: 1
+	Query: "specificepithet:areolatus genus:lithobates hastissue:1" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 2
+	Query: "Oklahoma necturus" ; Times: 4
+	Query: "Trachemys scripta united states Mississippi" ; Times: 1
+	Query: "specificepithet:guttatus genus:pantherophis stateprovince:&#34;Arkansas&#34; hastissue:1" ; Times: 1
+	Query: "genus:Anolis country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "family:Anguidae class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34; institutioncode:UAFMC" ; Times: 1
+	Query: "alligator snapping turtle" ; Times: 1
+	Query: "oklahoma necturus" ; Times: 9
+	Query: "&#34;Western chorus frog&#34; hastissue:1" ; Times: 1
+	Query: "Elaphe climacophora" ; Times: 1
+	Query: "Western chorus frog hastissue:1" ; Times: 1
+	Query: "sphenodon punctatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1398 download events in this period)
+Total number of records downloaded: 497
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-25 ; Times: 8
+	Date: 2018-01-13 ; Times: 2
+	Date: 2018-01-12 ; Times: 2
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "stateprovince:mississippi class:amphibia" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "phrynosoma douglasii" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "specificepithet:areolatus genus:lithobates hastissue:1" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "genus:Rhabdophis hastissue:1" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "(PHRYNOSOMATIDAE) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "stateprovince:mississippi class:reptilia" ; Times: 1
+	Query: "genus:Tantilla year &lt;= 1920" ; Times: 1
+	Query: "spea intermontana" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+
+
+End of report.
