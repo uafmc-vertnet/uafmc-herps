@@ -1,0 +1,95 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 359
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 60
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-11 ; Times: 4
+	Date: 2018-03-19 ; Times: 2
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-02 ; Times: 9
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-05 ; Times: 3
+	Date: 2018-03-28 ; Times: 3
+	Date: 2018-03-07 ; Times: 10
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-27 ; Times: 10
+	Date: 2018-03-24 ; Times: 2
+	Date: 2018-03-26 ; Times: 11
+	Date: 2018-03-30 ; Times: 2
+	Date: 2018-03-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sphenodon specificepithet:punctatus" ; Times: 5
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Trichobatrachus specificepithet:robustus" ; Times: 5
+	Query: "broad-headed skink" ; Times: 1
+	Query: "specificepithet:attenuatus stateprovince:&#34;arkansas&#34; hastissue:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Northern Leopard Frog" ; Times: 1
+	Query: "(Lithobates catesbeianus)" ; Times: 3
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 2
+	Query: "class:Amphibia catalognumber:1200" ; Times: 1
+	Query: "Crotalus horridus stateprovince:&#34;Arkansas&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Tantilla" ; Times: 1
+	Query: "genus:Holbrookia county:&#34;Beaver&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:nebulatus genus:Sibon country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Micrurus specificepithet:tener" ; Times: 2
+	Query: "genus:Lithobates specificepithet:grylio" ; Times: 2
+	Query: "Lithobates pipiens" ; Times: 2
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 2
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "painted turtle hassex:1" ; Times: 2
+	Query: "(Lithobates sylvaticus)" ; Times: 3
+	Query: "alligator snapping turtle" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Tantilla country:&#34;Panama&#34;" ; Times: 3
+	Query: "genus:Tantilla country:&#34;Panama&#34;" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34; AND (NOT PELAMIS )" ; Times: 1
+	Query: "isreal" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea country:&#34;Panama&#34;" ; Times: 2
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 2
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 2
+	Query: "spea intermontanus" ; Times: 2
+	Query: "vntype:specimen order:Anura institutioncode:UAFMC" ; Times: 1
+	Query: "specificepithet:attenuatus stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:attenuatus stateprovince:&#34;missouri&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "painted turtle hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1284 download events in this period)
+Total number of records downloaded: 922
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-26 ; Times: 1
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus hastissue:1" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma hastissue:1" ; Times: 2
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:UAFMC" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+
+
+End of report.
