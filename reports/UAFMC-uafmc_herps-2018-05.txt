@@ -1,0 +1,141 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 851
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 58
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-16 ; Times: 10
+	Date: 2018-05-08 ; Times: 14
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-23 ; Times: 14
+	Date: 2018-05-24 ; Times: 10
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:plethodontidae county:&#34;polk&#34; stateprovince:&#34;arkansas&#34; month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "Ommatotriton vittatus" ; Times: 1
+	Query: "specificepithet:albagula genus:plethodon stateprovince:&#34;arkansas&#34; (&#34;cave&#34;)" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus institutioncode:UAFMC" ; Times: 4
+	Query: "specificepithet:albagula genus:plethodon stateprovince:&#34;arkansas&#34; (&#34;cave&#34;) month &gt;= 5 month &lt;= 9" ; Times: 1
+	Query: "genus:amphiuma stateprovince:&#34;arkansas&#34; year &gt;= 1960" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;arkansas&#34; year &gt;= 1960" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris institutioncode:UAFMC" ; Times: 6
+	Query: "Hemidactylium Arkansas" ; Times: 3
+	Query: "genus:siren stateprovince:&#34;arkansas&#34; AND (NOT &#34;AR route 14&#34;)" ; Times: 1
+	Query: "specificepithet:angusticlavius genus:plethodon stateprovince:&#34;arkansas&#34; (&#34;cave&#34;)" ; Times: 1
+	Query: "specificepithet:robustus genus:Trichobatrachus institutioncode:UAFMC" ; Times: 3
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:UAFMC" ; Times: 3
+	Query: "specificepithet:spelaea genus:eurycea year &gt;= 1970" ; Times: 3
+	Query: "specificepithet:spelaea genus:eurycea (&#34;cave&#34;)" ; Times: 2
+	Query: "specificepithet:marina genus:Rhinella institutioncode:UAFMC" ; Times: 3
+	Query: "specificepithet:fourchensis genus:plethodon year &gt;= 1980" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;arkansas&#34; AND (NOT &#34;AR route 14&#34;)" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:UAFMC" ; Times: 4
+	Query: "specificepithet:spelaea genus:eurycea (&#34;cave&#34;) year &gt;= 1970" ; Times: 1
+	Query: "black-headed snake" ; Times: 1
+	Query: "specificepithet:angusticlavius genus:plethodon stateprovince:&#34;arkansas&#34; AND (NOT &#34;AR route 14&#34;)" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:UAFMC" ; Times: 3
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:UAFMC" ; Times: 3
+	Query: "family:plethodontidae county:&#34;polk&#34; stateprovince:&#34;arkansas&#34; month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "mudpuppy" ; Times: 1
+	Query: "specificepithet:intermontana genus:Spea institutioncode:UAFMC" ; Times: 3
+	Query: "family:plethodontidae county:&#34;polk&#34; stateprovince:&#34;arkansas&#34; month &gt;= 2 month &lt;= 2" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:UAFMC" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 1178 download events in this period)
+Total number of records downloaded: 971
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 7
+	Country: Spain ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 4
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-19 ; Times: 7
+	Date: 2018-05-18 ; Times: 3
+	Date: 2018-05-09 ; Times: 3
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-20 ; Times: 3
+	Date: 2018-05-21 ; Times: 4
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Lithobates pipiens (Lithobates pipiens Rana)" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 1
+	Query: "Eurycea longicauda" ; Times: 1
+	Query: "class:Amphibia county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Notophthalmus perstriatus" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 2
+	Query: "Plethodon mississippi" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "desmognathus conanti" ; Times: 1
+	Query: "Amphiuma means" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Eurycea spelaea" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "L. catesbeianus" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "Eurycea tynerensis" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Plethodon angusticlavius" ; Times: 1
+	Query: "Plethodon albagula" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Eurycea multiplicata" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Desmognathus brimleyorum" ; Times: 1
+	Query: "Desmognathus wrighti" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Siren intermedia" ; Times: 2
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+
+
+End of report.
