@@ -1,0 +1,118 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 34
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Canada ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-06 ; Times: 3
+	Date: 2018-08-26 ; Times: 4
+	Date: 2018-08-17 ; Times: 4
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-04 ; Times: 2
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anaxyrus boreas hastissue:1" ; Times: 1
+	Query: "specificepithet:angusticlavius genus:Plethodon (red)" ; Times: 1
+	Query: "genus:Oxybelis hastissue:1" ; Times: 2
+	Query: "Sphenodon" ; Times: 1
+	Query: "specificepithet:serratus genus:Plethodon (red)" ; Times: 1
+	Query: "Natrix grahamii" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "stripe genus:Plethodon" ; Times: 2
+	Query: "Natrix grahami" ; Times: 1
+	Query: "milksnake" ; Times: 1
+	Query: "Tuatara" ; Times: 2
+	Query: "genus:Gambelia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "hastissue:1 Gloydius" ; Times: 2
+	Query: "mamushi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1416 download events in this period)
+Total number of records downloaded: 1925
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 12
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 3
+	Date: 2018-08-06 ; Times: 4
+	Date: 2018-08-08 ; Times: 2
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-09 ; Times: 4
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-19 ; Times: 4
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-07 ; Times: 4
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-10 ; Times: 4
+	Date: 2018-08-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Trachemys scripta elegans specificepithet:scripta elegans genus:Trachemys hastissue:1" ; Times: 2
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "hELODERMA" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Hemidactylus turcicus turcicus" ; Times: 1
+	Query: "rhabdophis (japan)" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "alvarius" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "gambelia" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "catesbeiana" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "checkered whiptail" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "genus:Eumeces OR Plestiodon sex:male OR female" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:catesbeianus genus:Lithobates hastissue:1" ; Times: 2
+	Query: "rhinella marina" ; Times: 1
+	Query: "tropidoclonion" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "class:amphibia county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+
+
+End of report.
