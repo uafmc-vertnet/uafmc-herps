@@ -1,0 +1,81 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 230
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-16 ; Times: 9
+	Date: 2018-07-04 ; Times: 3
+	Date: 2018-07-19 ; Times: 2
+	Date: 2018-07-18 ; Times: 19
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Oxybelis hastissue:1" ; Times: 2
+	Query: "specificepithet:alleganiensis genus:Cryptobranchus stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:nebulatus genus:Sibon hastissue:1" ; Times: 1
+	Query: "oklahoma triangulum" ; Times: 19
+	Query: "specificepithet:triangulum genus:lampropeltis stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:marina genus:Rhinella hastissue:1" ; Times: 1
+	Query: "Scincinae hastissue:1" ; Times: 1
+	Query: "colorado river toad" ; Times: 1
+	Query: "Jefferson county heterodon" ; Times: 1
+	Query: "specificepithet:aeneus genus:Oxybelis hastissue:1" ; Times: 1
+	Query: "family:Salamandridae (egg)" ; Times: 1
+	Query: "genus:Atelopus country:&#34;Panama&#34; hastissue:1" ; Times: 1
+	Query: "Scincinae hastissue:1 year&gt;2000" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 977 download events in this period)
+Total number of records downloaded: 191
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 4
+	Date: 2018-07-11 ; Times: 3
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma (egg)" ; Times: 1
+	Query: "egg order:Caudata" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "lithobates sphenocephala" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "family:Salamandridae (egg)" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "specificepithet:marina genus:Rhinella" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren" ; Times: 1
+	Query: "macrochelys" ; Times: 1
+
+
+End of report.
