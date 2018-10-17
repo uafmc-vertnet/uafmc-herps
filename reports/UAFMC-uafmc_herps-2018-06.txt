@@ -1,0 +1,122 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 185
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 18
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Antigua and Barbuda ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-03 ; Times: 4
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-08 ; Times: 2
+	Date: 2018-06-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Thecadactylus hastissue:1" ; Times: 1
+	Query: "squamata taipei" ; Times: 1
+	Query: "alligator snapping turtle" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus hastissue:1" ; Times: 1
+	Query: "class:amphibia county:&#34;Inyo&#34; year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "order:Caudata lifestage:larva institutioncode:UAFMC" ; Times: 1
+	Query: "Ommatotriton vittatus" ; Times: 1
+	Query: "axolotl" ; Times: 4
+	Query: "plain-bellied watersnake" ; Times: 2
+	Query: "genus:Sauromalus hastissue:1" ; Times: 1
+	Query: "Missouri Heterodon" ; Times: 1
+	Query: "Emydoidea blandingii from south america" ; Times: 2
+	Query: "Alligator snapping turtle" ; Times: 3
+	Query: "class:Amphibia county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Alligator snapping" ; Times: 2
+	Query: "phyrnosoma" ; Times: 1
+	Query: "fire salamander" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 1169 download events in this period)
+Total number of records downloaded: 1708
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 41
+	Country: Austria ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 6
+	Date: 2018-06-07 ; Times: 14
+	Date: 2018-06-06 ; Times: 11
+	Date: 2018-06-05 ; Times: 8
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "American bullfrog" ; Times: 3
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "painted turtle" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "spotted salamander" ; Times: 5
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "wood frog continent:North America" ; Times: 1
+	Query: "american bullfrog" ; Times: 1
+	Query: "gila monster" ; Times: 1
+	Query: "Spotted Salamander" ; Times: 2
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "axolotl" ; Times: 3
+	Query: "family:Lacertidae hastissue:1" ; Times: 1
+	Query: "pickerel frog" ; Times: 1
+	Query: "newt" ; Times: 3
+	Query: "Plestiodon fasciatus" ; Times: 1
+	Query: "specificepithet:lineatum genus:Tropidoclonion" ; Times: 1
+	Query: "plestiodon egregius" ; Times: 1
+	Query: "genus:Thecadactylus hastissue:1" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Lithobates sphenocephala" ; Times: 1
+	Query: "plestiodon obsoletus" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "pond turtle" ; Times: 1
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "American Bullfrog" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "wood frog" ; Times: 1
+	Query: "Siren intermedia" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "western toad" ; Times: 2
+	Query: "crotalus adamanteus" ; Times: 1
+	Query: "fire salamander" ; Times: 1
+
+
+End of report.
