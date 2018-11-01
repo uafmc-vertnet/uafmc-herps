@@ -1,0 +1,105 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 163
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Netherlands ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 8
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-30 ; Times: 5
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-13 ; Times: 8
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "long-tailed salamander" ; Times: 2
+	Query: "genus:Crotalus stateprovince:&#34;Texas&#34; institutioncode:UAFMC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Crotalus institutioncode:UAFMC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Texas&#34; catalognumber:0135 institutioncode:UAFMC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Texas&#34; institutioncode:UAFMC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1496 hastissue:1" ; Times: 1
+	Query: "coastal tailed frog" ; Times: 1
+	Query: "hawksbill sea turtle" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Texas&#34; catalognumber:2011 institutioncode:UAFMC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "oklahoma triangulum" ; Times: 4
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Texas&#34; catalognumber:0007-0135 institutioncode:UAFMC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mountain chorus frog" ; Times: 1
+	Query: "eastern wormsnake" ; Times: 1
+	Query: "oklahoma lampropeltis triangulum" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Herpeton" ; Times: 2
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Oklahoma&#34; hastissue:1" ; Times: 2
+	Query: "Mountain Chorus Frog stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "leopard cat" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1300 download events in this period)
+Total number of records downloaded: 461
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 2
+	Country: India ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-25 ; Times: 3
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-08 ; Times: 5
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 3
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cornutum genus:phrynosoma stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Opheodrys" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Anolis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "heterodon platirhinos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pseudemys floridana" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 2
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "Caiman crocodilus" ; Times: 1
+	Query: "Desmognathus conanti" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Nerodia rhombifera" ; Times: 1
+	Query: "Desmognathus brimleyorum" ; Times: 1
+	Query: "Desmognathus wrighti" ; Times: 1
+	Query: "Sonora semiannulata" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
