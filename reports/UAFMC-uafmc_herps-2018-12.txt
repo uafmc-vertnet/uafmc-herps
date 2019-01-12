@@ -1,0 +1,82 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 42
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-24 ; Times: 2
+	Date: 2018-12-17 ; Times: 2
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:sphaerodactylus hastissue:1" ; Times: 1
+	Query: "Amphibia Mississippi forrest" ; Times: 1
+	Query: "year &lt;= 1823 institutioncode:UAFMC" ; Times: 1
+	Query: "gloydius blomhoffii" ; Times: 1
+	Query: "Reptilia texas cass" ; Times: 2
+	Query: "Reptilia arkansas miller" ; Times: 1
+	Query: "alligator snapping turtle" ; Times: 1
+	Query: "specificepithet:wislizenii genus:gambelia stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ambystoma texanum vntype:specimen hastissue:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 809 download events in this period)
+Total number of records downloaded: 528
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Sweden ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-20 ; Times: 2
+	Date: 2018-12-22 ; Times: 6
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 1
+	Query: "desmognathus wrighti" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "genus:Aspidoscelis hastissue:1" ; Times: 1
+
+
+End of report.
