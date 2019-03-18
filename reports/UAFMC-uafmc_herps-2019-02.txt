@@ -1,0 +1,101 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 166
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Brazil ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-03 ; Times: 9
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-10 ; Times: 2
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-15 ; Times: 3
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-20 ; Times: 12
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:Maculatum genus:Ambystoma stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "otis hastissue:1" ; Times: 1
+	Query: "grotto salamander" ; Times: 1
+	Query: "specificepithet:Holbrookii genus:Scaphiopus hastissue:1" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pecos&#34; stateprovince:&#34;Texas&#34; institutioncode:UAFMC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Salvadora hastissue:1" ; Times: 1
+	Query: "specificepithet:horridus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:atrox stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Oxybelis hastissue:1" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;arkansas&#34;" ; Times: 4
+	Query: "genus:siren stateprovince:&#34;arkansas&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pecos&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:anthracinus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Otis hastissue:1" ; Times: 1
+	Query: "African clawed frog" ; Times: 1
+	Query: "illnois" ; Times: 1
+	Query: "genus:Phrynosoma stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Tantilla country:&#34;Panama&#34;" ; Times: 2
+	Query: "genus:siren AND (florida) hastissue:1" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus hastissue:1" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tailed frog" ; Times: 2
+	Query: "genus:siren hastissue:1" ; Times: 2
+	Query: "genus:sonora stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "lithobates clamitans missouri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1227 download events in this period)
+Total number of records downloaded: 160
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-11 ; Times: 9
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eastern diamondback rattlesnake" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "genus:Ophisaurus hastissue:1" ; Times: 1
+	Query: "spotted salamander" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "brachyphona" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma haslifestage:1" ; Times: 1
+
+
+End of report.
