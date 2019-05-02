@@ -1,0 +1,124 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 352
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: United Kingdom ; Times: 19
+	Country: Sweden ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-11 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-27 ; Times: 2
+	Date: 2019-03-31 ; Times: 3
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-04 ; Times: 6
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-15 ; Times: 17
+	Date: 2019-03-12 ; Times: 4
+	Date: 2019-03-13 ; Times: 3
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Cameron&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhadinaea decorata" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Regina grahamii" ; Times: 1
+	Query: "genus:siren institutioncode:UAFMC hastissue:1" ; Times: 1
+	Query: "Reptilia Alabama Tuscaloosa" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Martin&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eastern red backed salamander" ; Times: 1
+	Query: "Lampropeltis triangulum syspila" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "garden salamander" ; Times: 1
+	Query: "sistrurus catenatus oklahoma" ; Times: 1
+	Query: "Elaphe carinata" ; Times: 1
+	Query: "Thamnophis butleri" ; Times: 1
+	Query: "genus:chrysemys stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pecos&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Haldea striatula" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:annulatum genus:Ambystoma county:&#34;Washington&#34; stateprovince:&#34;Arkansas&#34; institutioncode:UAFMC" ; Times: 1
+	Query: "Tantilla ruficeps" ; Times: 1
+	Query: "specificepithet:annulatum genus:Ambystoma county:&#34;Washington&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Gambelia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Natrix tessellata" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "Long nosed snake" ; Times: 1
+	Query: "Rhabdophis tigrinus" ; Times: 1
+	Query: "Carphophis vermis" ; Times: 1
+	Query: "Elaphe quadrivirgata" ; Times: 1
+	Query: "specificepithet:annulatum genus:Ambystoma stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Micrurus tener" ; Times: 1
+	Query: "Tantilla nigriceps" ; Times: 1
+	Query: "Pantherophis spiloides" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sceloporus county:&#34;washington&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Elaphe climacophora" ; Times: 1
+	Query: "Gloydius blomhoffii" ; Times: 1
+	Query: "genus:siren institutioncode:UAFMC" ; Times: 1
+	Query: "Pygmy rattlesnake" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1281 download events in this period)
+Total number of records downloaded: 57
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-25 ; Times: 3
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-04 ; Times: 6
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:ascaphus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "sistrurus catenatus oklahoma" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 1
+	Query: "Gambelia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:boreas genus:anaxyrus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "genus:chrysemys stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "specificepithet:pipiens genus:Lithobates stateprovince:&#34;Colorado&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "side blotched lizard" ; Times: 1
+	Query: "Sauromalus ater" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "genus:Arizona stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:ascaphus stateprovince:&#34;oregon&#34; year &gt;= 1800 year &lt;= 1975" ; Times: 1
+	Query: "order:anura country:&#34;panama&#34; hastissue:1" ; Times: 1
+
+
+End of report.
