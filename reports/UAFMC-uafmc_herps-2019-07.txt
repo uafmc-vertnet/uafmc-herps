@@ -1,0 +1,110 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 195
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Unknown ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 6
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-16 ; Times: 9
+	Date: 2019-07-10 ; Times: 6
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-30 ; Times: 2
+	Date: 2019-07-17 ; Times: 8
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sphenocephalus genus:Lithobates preparations:skeleton" ; Times: 1
+	Query: "genus:Nerodia specificepithet:cyclopion" ; Times: 1
+	Query: "chelonoidis nigra" ; Times: 2
+	Query: "rattlesnakes" ; Times: 1
+	Query: "Anaxyrus terrestris hastissue:1" ; Times: 1
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates preparations:skeleton" ; Times: 2
+	Query: "Anaxyrus punctatus hastissue:1" ; Times: 1
+	Query: "Anaxyrus boreas hastissue:1" ; Times: 1
+	Query: "Great Plains skink" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:tridactylum" ; Times: 1
+	Query: "texas horned lizard" ; Times: 2
+	Query: "ambystoma annulatum" ; Times: 5
+	Query: "genus:Farancia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Anaxyrus fowleri hastissue:1" ; Times: 3
+	Query: "Rhinella marina hastissue:1" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 1
+	Query: "Anaxyrus speciosus hastissue:1" ; Times: 1
+	Query: "sphaerodactylus hastissue:1" ; Times: 1
+	Query: "yellow mud turtle" ; Times: 1
+	Query: "Anaxyrus cognatus hastissue:1" ; Times: 2
+	Query: "specificepithet:stansburiana genus:Uta county:&#34;Uintah&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Atelopus zeteki hastissue:1" ; Times: 1
+	Query: "genus:Micrurus specificepithet:tener" ; Times: 1
+	Query: "specificepithet:pipiens genus:Lithobates preparations:skeleton" ; Times: 3
+	Query: "zigzag salamander" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 985 download events in this period)
+Total number of records downloaded: 469
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Peru ; Times: 1
+	Country: Bhutan ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 21
+	Country: Uganda ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-26 ; Times: 5
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-30 ; Times: 7
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-31 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Notophthalmus perstriatus" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Plestiodon" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "genus:Micrurus hastissue:1" ; Times: 1
+	Query: "locality:Ordway" ; Times: 1
+	Query: "Macroclemys" ; Times: 1
+	Query: "genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Sceloporus" ; Times: 1
+	Query: "plethodon ouachitae" ; Times: 1
+	Query: "specificepithet:ater genus:Sauromalus" ; Times: 2
+	Query: "specificepithet:lateralis genus:Scincella" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Plestiodon" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "specificepithet:texanus genus:Cophosaurus" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia" ; Times: 3
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "specificepithet:sexlineatus genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:laticeps genus:plestiodon" ; Times: 1
+
+
+End of report.
