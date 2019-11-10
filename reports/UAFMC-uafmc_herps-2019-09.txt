@@ -1,0 +1,130 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 154
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: United Kingdom ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-19 ; Times: 3
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-30 ; Times: 3
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 8
+	Date: 2019-09-05 ; Times: 5
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:notatus genus:Sphaerodactylus institutioncode:UAFMC" ; Times: 3
+	Query: "Regina grahamii" ; Times: 1
+	Query: "genus:Holbrookia stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "Alligator snapping turtle" ; Times: 1
+	Query: "vntype:specimen (siren) hastissue:1" ; Times: 2
+	Query: "vntype:specimen (siren) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "class:AMPHIBIA stateprovince:&#34;MISSOURI&#34; institutioncode:UAFMC" ; Times: 1
+	Query: "olive ridley" ; Times: 2
+	Query: "Ambystoma tigrinum" ; Times: 6
+	Query: "genus:Thecadactylus hastissue:1" ; Times: 2
+	Query: "specificepithet:obsoletus genus:Pantherophis stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:scutatum genus:hemidactylium stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "genus:Tropidoclonion stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Gloydius hastissue:1" ; Times: 1
+	Query: "alligator snapping turtle" ; Times: 1
+	Query: "Thamnophis radix hastissue:1" ; Times: 1
+	Query: "genus:thecadactylus hastissue:1" ; Times: 2
+	Query: "hellbender" ; Times: 1
+	Query: "specificepithet:douglasii genus:Phrynosoma hastissue:1" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia hastissue:1" ; Times: 1
+	Query: "streckeri Pseudacris" ; Times: 3
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "tuatara" ; Times: 1
+	Query: "specificepithet:nasicus genus:heterodon stateprovince:&#34;oklahoma&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1073 download events in this period)
+Total number of records downloaded: 552
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Brunei ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 28
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-04 ; Times: 2
+	Date: 2019-09-18 ; Times: 10
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-19 ; Times: 5
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "Lampropeltis (calligaster OR rhombomaculata) hastissue:1" ; Times: 1
+	Query: "Diadophis punctatus hastissue:1" ; Times: 1
+	Query: "Lampropeltis (abnorma OR annulata OR elapsoides OR gentilis OR micropholis OR polyzona OR triangulum) hastissue:1" ; Times: 1
+	Query: "genus:aspidoscelis hastissue:1" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Opheodrys" ; Times: 1
+	Query: "Agkistrodon (contortrix OR laticinctus) hastissue:1" ; Times: 1
+	Query: "vntype:specimen (siren) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "boreas vntype:specimen hastissue:1" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "specificepithet:serratus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:texanus genus:Cophosaurus hastissue:1" ; Times: 1
+	Query: "Thamnophis sirtalis hastissue:1" ; Times: 1
+	Query: "Thamnophis radix hastissue:1" ; Times: 1
+	Query: "Masticophis flagellum hastissue:1" ; Times: 1
+	Query: "newt" ; Times: 1
+	Query: "Lampropeltis (getula OR californiae OR holbrooki OR nigra OR splendida) hastissue:1" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Pantherophis AND (guttatus OR guttata OR emoryi OR slowinskii) hastissue:1" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "specificepithet:douglasii genus:Phrynosoma hastissue:1" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "Storeria dekayi hastissue:1" ; Times: 1
+	Query: "class:AMPHIBIA stateprovince:&#34;MISSOURI&#34; institutioncode:UAFMC" ; Times: 1
+
+
+End of report.
