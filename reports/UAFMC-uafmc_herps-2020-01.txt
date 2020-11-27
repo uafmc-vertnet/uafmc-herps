@@ -1,0 +1,97 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 128
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: United Kingdom ; Times: 5
+	Country: Dominica ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 7
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-22 ; Times: 5
+	Date: 2020-01-19 ; Times: 3
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-23 ; Times: 2
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-27 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sibon hastissue:1" ; Times: 1
+	Query: "specificepithet:notatus genus:Sphaerodactylus institutioncode:UAFMC" ; Times: 4
+	Query: "picta Chrysemys" ; Times: 3
+	Query: "&#34;negative&#34; order:caudata" ; Times: 1
+	Query: "genus:Tantilla ruficeps" ; Times: 1
+	Query: "genus:Rhadinaea hastissue:1" ; Times: 2
+	Query: "specificepithet:zeteki genus:Atelopus" ; Times: 1
+	Query: "blandingii Emydoidea" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis hastissue:1" ; Times: 2
+	Query: "specificepithet:robustus genus:Trichobatrachus" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34; year &gt;= 1955 year &lt;= 1955 month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "salamandra Salamandra" ; Times: 1
+	Query: "genus:thecadactylus hastissue:1" ; Times: 2
+	Query: "specificepithet:brachyphona genus:Pseudacris stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "marble salamander" ; Times: 1
+	Query: "county:&#34;Pope&#34; stateprovince:&#34;Arkansas&#34; year &gt;= 1974 year &lt;= 1974" ; Times: 1
+	Query: "storeria dekayi georgia" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Thecadactylus hastissue:1" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1584 download events in this period)
+Total number of records downloaded: 2667
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-04 ; Times: 2
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-25 ; Times: 4
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "specificepithet:areolatus family:ranidae" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:Cornutum genus:Phrynosoma year &gt;= 1800 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Plestiodon egregius" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Sphaerodactylus notatus" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+
+
+End of report.
