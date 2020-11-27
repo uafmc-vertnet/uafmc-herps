@@ -1,0 +1,144 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 272
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-05 ; Times: 8
+	Date: 2020-04-10 ; Times: 3
+	Date: 2020-04-06 ; Times: 9
+	Date: 2020-04-14 ; Times: 7
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 11
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-07 ; Times: 4
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 8
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marcianus genus:thamnophis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "alligator arkansas" ; Times: 1
+	Query: "(chrysemys concinna)" ; Times: 4
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Pike&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 3
+	Query: "psuedacris crucifer" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Franklin&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "genus:Sistrurus county:&#34;Meade&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Trachemys scripta arkansas" ; Times: 8
+	Query: "mole salamander texas" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Miller&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "american alligator arkansas" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Benton&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "Scincella lateralis Madison County" ; Times: 1
+	Query: "blandings" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "scincella lateralis mississippi" ; Times: 1
+	Query: "kinosternon subrubrum mississippi" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Alligator snapping turtle" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Hempstead&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 3
+	Query: "genus:Sistrurus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:rhinocheilus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Tantilla ruficeps" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "lithobates sphenocephalus arkansas" ; Times: 3
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Anolis carolinensis Escambia county Florida" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:dulcis genus:Leptotyphlops stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Washington&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "(Atelopus) hastissue:1" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+	Query: "alligator mississippiensis arkansas" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Polk&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Trachemys scripta elegans arkansas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 1171 download events in this period)
+Total number of records downloaded: 596
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 35
+	Country: Netherlands ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 8
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-10 ; Times: 4
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-20 ; Times: 3
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-06 ; Times: 3
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "emydoidea" ; Times: 3
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "specificepithet:platirhinos genus:Heterodon" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "specificepithet:tigris genus:Aspidoscelis" ; Times: 1
+	Query: "(Xenodontinae) hastissue:1" ; Times: 2
+	Query: "eretmochelys" ; Times: 1
+	Query: "specificepithet:serratus genus:plethodon" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Haldea striatula" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "Tantilla ruficeps" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "snapping turtle" ; Times: 1
+	Query: "blandingii" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Pantherophis spiloides" ; Times: 1
+	Query: "Rhabdophis tigrinus" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "specificepithet:butleri genus:Thamnophis" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "lepidochelys olivacea" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "mud turtle" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+
+
+End of report.
