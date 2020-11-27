@@ -1,0 +1,97 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 160
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Thailand ; Times: 1
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-21 ; Times: 3
+	Date: 2019-11-22 ; Times: 3
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-18 ; Times: 5
+	Date: 2019-11-08 ; Times: 3
+	Date: 2019-11-09 ; Times: 3
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-07 ; Times: 5
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-16 ; Times: 4
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Turtle Thailand" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Cameron&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:scaphiopus county:&#34;harmon&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "gila monster" ; Times: 1
+	Query: "Sistrurus catenatus 1975" ; Times: 4
+	Query: "Sistrurus catenatus 2011" ; Times: 4
+	Query: "vntype:specimen specificepithet:sylvaticus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "vntype:specimen order:Caudata lifestage:larval" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;harmon&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 4
+	Query: "Sistrurus catenatus 2015" ; Times: 2
+	Query: "specificepithet:ater genus:sauromalus hastissue:1" ; Times: 1
+	Query: "alligator snapping turtle" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 9
+	Query: "Milksnake" ; Times: 1
+	Query: "genus:siren year &lt;= 1955" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1367 download events in this period)
+Total number of records downloaded: 425
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Canada ; Times: 1
+	Country: China ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-18 ; Times: 9
+	Date: 2019-11-08 ; Times: 3
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-17 ; Times: 3
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:undulatus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "specificepithet:speciosus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:farancia specificepithet:abacura institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2019" ; Times: 5
+	Query: "genus:nerodia specificepithet:sipedon institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Cane toad" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma hastissue:1" ; Times: 1
+	Query: "wood frog" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 2
+	Query: "genus:ophisaurus specificepithet:attenuatus institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "timber rattlesnake" ; Times: 1
+	Query: "family:testudinidae country:&#34;ecuador&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+
+
+End of report.
