@@ -1,0 +1,126 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 34
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-30 ; Times: 4
+	Date: 2020-03-03 ; Times: 2
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-14 ; Times: 2
+	Date: 2020-03-15 ; Times: 3
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambystoma jeff" ; Times: 2
+	Query: "genus:necturus stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "specificepithet:carolina genus:terrapene stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:clarkii genus:pseudacris stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:couchii genus:scaphiopus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Siren stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "specificepithet:olivacea genus:gastrophryne county:&#34;mayes&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:speciosus genus:Anaxyrus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Jefferson Salamander" ; Times: 1
+	Query: "ambystoma opacum mississippi" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:streckeri genus:pseudacris stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "tuatara" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Pike&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Sonora stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:thecadactylus hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 853 download events in this period)
+Total number of records downloaded: 663
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: United States ; Times: 37
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-10 ; Times: 5
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-30 ; Times: 5
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-02 ; Times: 4
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-20 ; Times: 4
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-04 ; Times: 5
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:blandingii" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "specificepithet:albagula genus:Plethodon" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis" ; Times: 1
+	Query: "genus:Alligator country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:annulatum genus:Ambystoma" ; Times: 1
+	Query: "texas horned lizard" ; Times: 1
+	Query: "genus:Siren stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+	Query: "specificepithet:speciosus family:Bufonidae" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:areolatus family:Ranidae" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:palustris family:Ranidae" ; Times: 1
+	Query: "Atelopus zeteki" ; Times: 1
+	Query: "genus:Amphiuma" ; Times: 1
+	Query: "american alligator" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria" ; Times: 1
+	Query: "genus:Cemophora" ; Times: 1
+	Query: "specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "newt" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "specificepithet:lucifuga genus:Eurycea" ; Times: 1
+	Query: "specificepithet:clarkii genus:Pseudacris" ; Times: 1
+	Query: "eastern mud turtle" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "genus:Sonora" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren" ; Times: 1
+
+
+End of report.
