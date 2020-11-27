@@ -1,0 +1,98 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 184
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 4
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-22 ; Times: 10
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-24 ; Times: 5
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sphaerodactylus hastissue:1" ; Times: 1
+	Query: "Ringed Salamander" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 1
+	Query: "Sistrurus catenatus 1975" ; Times: 1
+	Query: "genus:Tantilla class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:notatus genus:sphaerodactylus hastissue:1" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus institutioncode:UAFMC" ; Times: 1
+	Query: "black racer" ; Times: 4
+	Query: "spiny softshell" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hemidactylium county:&#34;polk&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "Grotto Salamander" ; Times: 2
+	Query: "Sistrurus catenatus 2011" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:UAFMC" ; Times: 3
+	Query: "blandings turtle" ; Times: 1
+	Query: "streckeri Pseudacris" ; Times: 1
+	Query: "blindsnake" ; Times: 1
+	Query: "sylvaticus Lithobates" ; Times: 3
+	Query: "Phyrnosoma" ; Times: 2
+	Query: "genus:caiman country:&#34;united&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Lithobates hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1308 download events in this period)
+Total number of records downloaded: 1659
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Canada ; Times: 1
+	Country: Saudi Arabia ; Times: 1
+	Country: Rwanda ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-23 ; Times: 15
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "genus:Anolis hastissue:1" ; Times: 1
+	Query: "northern leopard frog" ; Times: 2
+	Query: "Chelonoidis" ; Times: 1
+	Query: "genus:caiman hastissue:1" ; Times: 1
+	Query: "Bufonidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "chuckwalla" ; Times: 2
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Anaxyrus fowleri" ; Times: 1
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:undulatus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "wisconsin turtle" ; Times: 1
+
+
+End of report.
