@@ -1,0 +1,97 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 84
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Sweden ; Times: 3
+	Country: Algeria ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 2
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-03 ; Times: 7
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-11 ; Times: 3
+	Date: 2020-08-07 ; Times: 3
+	Date: 2020-08-08 ; Times: 2
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:notatus genus:Sphaerodactylus institutioncode:UAFMC" ; Times: 4
+	Query: "genus:Necturus stateprovince:&#34;Oklahoma&#34;" ; Times: 7
+	Query: "pygmy rattlesnake" ; Times: 1
+	Query: "Prairie Rattlesnake" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rattlesnakes" ; Times: 5
+	Query: "Terrapene ornata Arkansas" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "senticollis" ; Times: 1
+	Query: "hellbender" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "blandings turtle" ; Times: 2
+	Query: "genus:thamnophis butleri hastissue:1" ; Times: 1
+	Query: "Notophthalmus Newton County" ; Times: 1
+	Query: "Oxybelis hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 756 download events in this period)
+Total number of records downloaded: 718
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-17 ; Times: 4
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-06 ; Times: 5
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-27 ; Times: 4
+	Date: 2020-08-31 ; Times: 2
+	Date: 2020-08-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "Texas genus:Leptotyphlops" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Texas genus:Chelydra" ; Times: 1
+	Query: "cemophora coccinea" ; Times: 1
+	Query: "Texas genus:Arizona" ; Times: 1
+	Query: "vntype:specimen specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "order:Testudines" ; Times: 2
+	Query: "Sceloporus graciosus" ; Times: 1
+	Query: "snapping turtle" ; Times: 1
+	Query: "genus:scaphiopus hastissue:1" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "specificepithet:laticeps genus:Plestiodon" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 2
+	Query: "Sternotherus odoratus" ; Times: 2
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "Texas specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "crotalus horridus" ; Times: 2
+
+
+End of report.
