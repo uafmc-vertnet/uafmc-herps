@@ -1,0 +1,102 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 98
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-22 ; Times: 3
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-26 ; Times: 6
+	Date: 2020-09-19 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-01 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "sisturus" ; Times: 4
+	Query: "Sisturus" ; Times: 2
+	Query: "vntype:specimen genus:Terrapene continent:North America hastissue:1" ; Times: 3
+	Query: "genus:Necturus county:&#34;Washington&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Oxybelis hastissue:1" ; Times: 1
+	Query: "genus:Trichobatrachus hastissue:1" ; Times: 2
+	Query: "specificepithet:concinna genus:Pseudemys hastissue:1" ; Times: 2
+	Query: "terrapene ornata arkansas" ; Times: 1
+	Query: "genus:Necturus county:&#34;Crawford&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Elaphe guttatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Anolis stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 1
+	Query: "Terrapene ornata Missouri" ; Times: 5
+	Query: "genus:Necturus county:&#34;Benton&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 976 download events in this period)
+Total number of records downloaded: 476
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ghana ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 26
+	Country: Uganda ; Times: 1
+	Country: Fiji ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-24 ; Times: 5
+	Date: 2020-09-03 ; Times: 5
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhadinaea decorata" ; Times: 1
+	Query: "specificepithet:picta genus:Chrysemys hastissue:1" ; Times: 2
+	Query: "acris" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "specificepithet:scripta genus:Trachemys hastissue:1" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "specificepithet:concinna genus:Pseudemys hastissue:1" ; Times: 2
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "Ambystoma tigrinum mexico" ; Times: 1
+	Query: "squirrel treefrog" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "atelopus zeteki" ; Times: 1
+	Query: "micrurus tener" ; Times: 1
+
+
+End of report.
