@@ -1,0 +1,69 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 42
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 2
+	Date: 2020-06-24 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-11 ; Times: 1
+	Date: 2020-06-10 ; Times: 2
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-28 ; Times: 15
+	Date: 2020-06-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Tantilla" ; Times: 1
+	Query: "Carphophis Texas" ; Times: 2
+	Query: "scientificname:emydoidea blandingii" ; Times: 18
+	Query: "axolotl" ; Times: 4
+	Query: "pit viper" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Tantilla country:&#34;Panama&#34;" ; Times: 1
+	Query: "Diemictylus" ; Times: 2
+	Query: "hastissue:1 gloydius" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 474 download events in this period)
+Total number of records downloaded: 495
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-01 ; Times: 7
+	Date: 2020-06-05 ; Times: 5
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "genus:scaphiopus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "american alligator" ; Times: 2
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "axolotl" ; Times: 2
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "genus:spea stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+
+
+End of report.
