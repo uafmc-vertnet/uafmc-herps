@@ -1,0 +1,95 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 72
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-25 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-12 ; Times: 3
+	Date: 2020-10-13 ; Times: 5
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sibon hastissue:1" ; Times: 1
+	Query: "Terrapene carolina stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "genus:Trachemys hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus: carphophis hastissue:1" ; Times: 1
+	Query: "genus:Trichobatrachus hastissue:1" ; Times: 1
+	Query: "genus: Rhadinaea hastissue:1" ; Times: 4
+	Query: "genus: rhadinaea hastissue:1" ; Times: 1
+	Query: "genus: Atelopus hastissue:1" ; Times: 1
+	Query: "axolotl" ; Times: 1
+	Query: "amphib" ; Times: 1
+	Query: "ornate box turtle" ; Times: 1
+	Query: "tuatara" ; Times: 1
+	Query: "crawfish frog" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1521 download events in this period)
+Total number of records downloaded: 1126
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Ethiopia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 3
+	Date: 2020-10-02 ; Times: 3
+	Date: 2020-10-24 ; Times: 2
+	Date: 2020-10-01 ; Times: 1
+	Date: 2020-10-05 ; Times: 6
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "genus:Trichobatrachus hastissue:1" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "vntype:specimen specificepithet:pipiens genus:Lithobates" ; Times: 1
+	Query: "order:SQUAMATA stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "order:anura stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "Nerodia erythrogaster" ; Times: 2
+	Query: "order:Caudata hastissue:1" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "genus:gastrophryne stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Terrapene carolina stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "genus:Plethodon class:Amphibia haslength:1" ; Times: 1
+	Query: "Scaphiopus holbrookii" ; Times: 1
+
+
+End of report.
