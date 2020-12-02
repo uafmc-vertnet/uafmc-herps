@@ -1,0 +1,98 @@
+Report for Institution Code UAFMC, Resource uafmc_herps
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 36
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 3
+	Country: Sweden ; Times: 4
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-21 ; Times: 1
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-09 ; Times: 1
+	Date: 2020-11-07 ; Times: 2
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-10 ; Times: 1
+	Date: 2020-11-12 ; Times: 10
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Macrochelys temminckii hastissue:1" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Cameron&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Anaxyrus punctatus" ; Times: 2
+	Query: "Yellow mud turtle" ; Times: 1
+	Query: "prairie rattlesnake" ; Times: 1
+	Query: "Kinosternon subrubrum hastissue:1" ; Times: 1
+	Query: "ambystoma annulatum arkansas garland" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Oregon&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Anaxyrus cognatus" ; Times: 4
+	Query: "genus:Scincella stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Scincella stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Madison&#34; stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:boreas county:&#34;inyo&#34;" ; Times: 2
+	Query: "scientificname:Scaphiopus couchii" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 842 download events in this period)
+Total number of records downloaded: 484
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 1
+	Date: 2020-11-05 ; Times: 3
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-26 ; Times: 1
+	Date: 2020-11-09 ; Times: 1
+	Date: 2020-11-15 ; Times: 1
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-04 ; Times: 1
+	Date: 2020-11-16 ; Times: 2
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-12 ; Times: 1
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynosoma douglasii" ; Times: 1
+	Query: "specificepithet:viridis genus:crotalus year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "prairie rattlesnake" ; Times: 1
+	Query: "vntype:specimen specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "hyla chrysoscelis" ; Times: 2
+	Query: "Anaxyrus americanus americanus" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "chrysoscelis" ; Times: 1
+	Query: "opheodrys aestivus" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "crotalus viridis" ; Times: 2
+	Query: "specificepithet:lateralis genus:Scincella stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 1
+	Query: "Ambystoma tigrinum stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "green anole" ; Times: 1
+
+
+End of report.
